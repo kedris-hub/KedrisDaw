@@ -17,7 +17,7 @@ public class Multiplos5 {
 		
 		do{
 			
-		}while
+		}while(1!=1);
 		
 	}
 }
