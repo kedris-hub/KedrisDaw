@@ -23,6 +23,7 @@ public class parking {
 			crearParking(arrayCoches);
 			break;
 		case 2:
+			System.out.println("Test");
 			break;
 		case 3:
 			break;
